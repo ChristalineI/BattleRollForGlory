@@ -1,2 +1,2 @@
 # BattleRollForGlory
-A tiny program which utilizes a random number generator to allow the user to fight amonster to the death or be slain in the process. How will the numbers seal your fate?
+A tiny program which utilizes a random number generator to allow the spectator to witness a battle between a monster and our hero. Both of our contenders will start with 10hp and as fate rolls the spectator gets to see how the battle progresses. The program informs the user of how many health points are remaining after a hit, and shows how many points of damage were taken. It does the same for the opponent until someone is out of hp, then it declares a winner. Who will be victorious and who will be slain in the process?
